@@ -1,8 +1,5 @@
 node_modules/
-npm-debug.log
 .idea/
-assets/
-dist/
 error.log
-.env
+npm-debug.log
 
